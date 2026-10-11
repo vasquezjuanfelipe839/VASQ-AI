@@ -1,4 +1,4 @@
-# VASQ-AI# VASQ AI
+# VASQ AI
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
